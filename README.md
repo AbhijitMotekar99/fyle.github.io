@@ -1,6 +1,6 @@
 # 🌐 Flye Digital Marketing Agency
 
-Welcome to the Flye Digital Marketing Agency website repository! This project showcases a modern, responsive website for a digital marketing agency, including various sections like Home, Services, Why We Are Best, Our Projects, Company Growth, Client Feedback, and a contact form popup.
+Welcome to the Flye Digital Marketing Agency website repository! This project showcases a modern website for a digital marketing agency, including various sections like Home, Services, Why We Are Best, Our Projects, Company Growth, Client Feedback, and a contact form popup.
 
 ## 🚀 Technologies Used
 
@@ -39,7 +39,7 @@ https://abhijitmotekar99.github.io/fyle.github.io/
 
 ## 💡 Features
 
-- **Responsive Design** - The website is designed to be responsive, making it accessible on various devices and screen sizes.
+- **Responsive Design** - For now project is not responsive further you can make it responsive.
 - **Interactive Elements** - Includes hover effects, slide transitions, and a popup form for an engaging user experience.
 - **Contact Form** - Allows users to send messages through the contact form.
 
